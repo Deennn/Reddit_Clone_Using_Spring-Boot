@@ -1,146 +1,57 @@
 Reddit Clone
 ====
-
-    An awesome project where spring boot mvc
-    
-    Explore the docs »
-    
-    
-    View Demo
-    ·
-    Report Bug
-    ·
-    Request Feature
-
-
-
-
-Table of Contents
-
-
-About the Project
-
-Built With
-
-
+One Paragraph of project description goes here
 
 Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 Prerequisites
-Installation
+What things you need to install the software and how to install them
 
+Give examples
+Installing
+A step by step series of examples that tell you how to get a development env running
 
-Usage
-Roadmap
-Contributing
-License
-Contact
-Acknowledgements
+Say what the step will be
 
+Give the example
+And repeat
 
+until finished
+End with an example of getting some data out of the system or using it for a little demo
 
-About The Project
+Running the tests
+Explain how to run the automated tests for this system
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
-Here's why:
+Break down into end to end tests
+Explain what these tests test and why
 
-Your time should be focused on creating something amazing. A project that solves a problem and helps others
-You shouldn't be doing the same tasks over and over like creating a README from scratch
-You should element DRY principles to the rest of your life 😄
+Give an example
+And coding style tests
+Explain what these tests test and why
 
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+Give an example
+Deployment
+Add additional notes about how to deploy this on a live system
 
 Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-Bootstrap
-JQuery
-Laravel
-
-
-
-Getting Started
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-Prerequisites
-This is an example of how to list things you need to use the software and how to install them.
-
-npm
-
-
-npm install npm@latest -g
-
-
-
-Installation
-
-Get a free API Key at https://example.com
-
-Clone the repo
-
-
-git clone https://github.com/your_username_/Project-Name.git
-
-
-
-Install NPM packages
-
-
-npm install
-
-
-
-Enter your API in config.js
-
-
-
-const API_KEY = 'ENTER YOUR API';
-
-
-
-
-Usage
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-For more examples, please refer to the Documentation
-
-
-Roadmap
-See the open issues for a list of proposed features (and known issues).
-
-
+Dropwizard - The web framework used
+Maven - Dependency Management
+ROME - Used to generate RSS Feeds
 Contributing
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
+Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
-Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
+Versioning
+We use SemVer for versioning. For the versions available, see the tags on this repository.
 
-
+Authors
+Billie Thompson - Initial work - PurpleBooth
+See also the list of contributors who participated in this project.
 
 License
-Distributed under the MIT License. See LICENSE for more information.
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
-
-Contact
-Your Name - @your_twitter - email@example.com
-Project Link: https://github.com/your_username/repo_name
-
-
-Acknowledgements
-
-GitHub Emoji Cheat Sheet
-Img Shields
-Choose an Open Source License
-GitHub Pages
-Animate.css
-Loaders.css
-Slick Carousel
-Smooth Scroll
-Sticky Kit
-JVectorMap
-Font Awesome
+Acknowledgments
+Hat tip to anyone whose code was used
+Inspiration
+etcFont Awesome
