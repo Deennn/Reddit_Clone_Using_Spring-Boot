@@ -1,7 +1,6 @@
 package com.example.reddit_clone.entity;
 
-import lombok.Data;
-import lombok.NoArgsConstructor;
+import lombok.*;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -9,8 +8,11 @@ import javax.persistence.Id;
 import javax.persistence.ManyToOne;
 
 @Entity
-@Data
+@Getter @Setter
+@ToString
 @NoArgsConstructor
+
+
 public class Comment extends Auditable{
     @Id
     @GeneratedValue
@@ -18,4 +20,9 @@ public class Comment extends Auditable{
     private String body;
     @ManyToOne
     private Link link;
+
+    public Comment(String body, Link link) {
+        this.body = body;
+        this.link = link;
+    }
 }
