@@ -1,4 +1,4 @@
-package com.example.reddit_clone.repository;
+package com.example.reddit_clone.repositories;
 
 import com.example.reddit_clone.entity.Comment;
 import org.springframework.data.jpa.repository.JpaRepository;
